@@ -44,10 +44,10 @@ Fender Korea의 프리미엄 기타를 소개하는 인터랙티브 3D 웹 경�
 
 ## 🎬 Scene Structure
 
-### Scene 1 - Hero & Guitar Showcase
-- 3D 기타 모델 인트로 애니메이션
-- 동적 조명 효과
-- 시네마틱 카메라 워크
+### Scene 1 - Intro
+- 조선펑크의 정서를 담기 위한 크라잉넛의 공연 영상을  
+직접 편집해 구성한 인트로.
+-공연의 열기와 현장 질감을 Premiere Pro에서 컷·조명·노이즈를 조절하며 브랜드 무드로 재해석  
 
 ### Scene 2 - Immersive Room Experience
 - 3D 룸 환경
