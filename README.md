@@ -241,5 +241,5 @@ npm run preview
 ---
 
 <div align="center">
-  Made with ❤️ and ☕ for Fender Korea
+  Made with ❤️ and 🎸 for Fender Korea
 </div>
