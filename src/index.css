@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* 선택: 전역 높이 */
+html, body, #root { height: 100%; }
+
+/* v4 테마 토큰 선언 */
+@theme {
+  --color-fender-red: #D21F1B;   
+}
+
+/* 폰트 스택: 라틴은 Plus Jakarta Sans, 한글은 자동으로 LINE Seed KR 폴백 */
+:root{
+  --font-sans: "Plus Jakarta Sans","Noto Sans KR",system-ui,sans-serif;
+  --font-display: "Plus Jakarta Sans","Noto Sans KR",system-ui,sans-serif;
+}
+
+
+/* 기본 바디 폰트 적용 */
+@layer base{
+  html, body { height: 100%; }
+  body { font-family: var(--font-sans); }
+}
+
+/* 편의 유틸 */
+@layer utilities{
+  .font-display{ font-family: var(--font-display); }
+  .font-sansApp{ font-family: var(--font-sans); } /* 필요 시 특정 영역에 강제 */
+}
