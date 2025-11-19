@@ -61,9 +61,10 @@ Fender Korea의 프리미엄 기타를 소개하는 인터랙티브 3D 웹 경�
 - **Limited Section**: 한정판 정보
 - **CTA Section**: 행동 유도 섹션
 
-### Scene 4 - Outro & Contact
-- 브랜드 메시지
-- 연락처 정보
+### Scene 4 - Outro & Behind the Portfolio
+
+- 작품 소개
+- 작업 툴
 
 ## 📁 Project Structure
 
