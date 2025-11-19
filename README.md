@@ -51,7 +51,6 @@ Fender Korea의 프리미엄 기타를 소개하는 인터랙티브 3D 웹 경�
 ### Scene 2 - Immersive Room Experience
 - 3D 룸 환경
 - 인터랙티브 공간 탐험
-- 영상 자산 통합
 
 ### Scene 3 - Product Details (Multi-Section)
 - **Hero Section**: 제품 메인 비주얼
